@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sergio-SuttaB
+- 👀 I’m interested in programación
+- 🌱 I’m currently learning desarrollo de software
+- 💞️ I’m looking to collaborate on el desarrollo de la tecnologia y en su uso practico
+- 📫 How to reach me  sergiosuttab@gmail.com
